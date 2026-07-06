@@ -35,7 +35,7 @@ Same playbook every time: find new challenges for growth, land somewhere new, le
 |---|---|
 | Prototypes beat PRDs for alignment | Build working demos with Claude Code before writing a spec |
 | APIs are products, not plumbing | Treat DX, pricing, and docs as first-class features |
-| Technical fluency is a PM superpowerKnow | what's a config change and what's a rewrite; push on trade-offs, defer on implementation |
+| Technical fluency is a PM superpower | Know what's a config change and what's a rewrite; push on trade-offs, defer on implementation |
 | Distribution is half the product | Think monetization from day one, not post-launch |
 
 ## 🛠️ Stack I actually touch
