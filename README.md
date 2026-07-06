@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:d97706&height=210&text=Jaydeep%20Trivedi&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Bangalore%20%E2%86%92%20Kuala%20Lumpur%20%E2%86%92%20Graz&descSize=17&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=700&color=D97706&center=true&vCenter=true&repeat=false&width=520&height=32&lines=Engineer+turned+Product+Manager;Platform+Strategy+%26+API+monetization;AI-native+product+management" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=700&color=D97706&center=true&vCenter=true&repeat=false&width=520&height=32&lines=Engineer+turned+Product+Manager;Platform+%26+API+monetization;AI-native+product+management" alt="Typing SVG" />
 
 <em>technical enough to build. commercial enough to sell.</em>
 
