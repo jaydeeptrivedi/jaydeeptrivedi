@@ -18,7 +18,7 @@
 
 ## 🧭 The short version
 
-Twelve years ago I was writing a Windows Phone app in C# as a college project in Bangalore. Since then I've been a full stack developer, an engineering manager, and now a Product Manager, having shipped across **India, Malaysia, and Austria**; encompassing MarTech pipelines, AdTech servers, and Platform strategy, APIs for AgriTech sensors in fields that make money.
+Twelve years ago I was writing a Windows Phone app in C# as a college project in Bangalore. Since then I've been a full stack developer, an engineering manager, and now a Product Manager, having shipped across **India, Malaysia, and Austria**; encompassing MarTech pipelines, AdTech services, and Platform strategy, APIs for AgriTech sensors in fields that make money.
 
 Same playbook every time: find new challenges for growth, land somewhere new, learn faster than expected, let the work speak. Every move meant starting from scratch. I've gotten good at that!
 
